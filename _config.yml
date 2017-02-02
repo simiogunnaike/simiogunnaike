@@ -2,12 +2,12 @@
 
 title:            Simi
 locale:           en_US
-logo:             # filename of a logo image that has been placed into your images directory 
+logo:             similogo.jpg 
 # If using a Github User page (i.e. username.github.io) to host your site, delete the default url that is below.
-# url: /jekyll-academic
+url: simiogunnaike.github.io
 # Enter the following platform usernames if you would like for them to appear on your site.
 # Remove the hashtag symbol and then enter the username, without the @ symbol or quotation marks. Only the bio is in quotation marks.
-owner:
+owner: Simi Ogunnaike
   name: Simi Ogunnaike
   avatar: 25386780681_a7350a6c9a_o.jpg
   bio: "Live Love Learn Laugh! This is my motto."
@@ -16,7 +16,7 @@ owner:
   facebook: Simi Ogunnaike
   instagram: simi_naike
   linkedin: Simi Ogunnaike
-  github: simiogunnaike
+  github: simiogunnaike.github.io
   researchgate: #username
   mendeley: #username
   google:
