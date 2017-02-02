@@ -8,15 +8,15 @@ logo:             # filename of a logo image that has been placed into your imag
 # Enter the following platform usernames if you would like for them to appear on your site.
 # Remove the hashtag symbol and then enter the username, without the @ symbol or quotation marks. Only the bio is in quotation marks.
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
-  twitter: #username
-  facebook: #username
-  instagram: #username
-  linkedin: #username
-  github: #username
+  name: Simi Ogunnaike
+  avatar: 25386780681_a7350a6c9a_o.jpg
+  bio: "Live Love Learn Laugh! This is my motto."
+  email: simiogunnaike@gmail.com
+  twitter: 
+  facebook: Simi Ogunnaike
+  instagram: simi_naike
+  linkedin: Simi Ogunnaike
+  github: simiogunnaike
   researchgate: #username
   mendeley: #username
   google:
